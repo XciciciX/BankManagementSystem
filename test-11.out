@@ -1,0 +1,27 @@
+User mertg logged in.
+User mertg logged in.
+User paoletti logged in.
+Transaction placed at 80301402236: $80000 from paoletti to mertg at 80302402234.
+Insufficient funds to process transaction 0.
+Transaction placed at 80402402236: $50000 from paoletti to mertg at 80402402237.
+User mertg logged out.
+User mertg logged out.
+Transaction executed at 80402402237: $50000 from paoletti to mertg.
+1: paoletti sent 50000 dollars to mertg at 80402402237.
+There was 1 transaction that was placed between time 80301402236 to 90301402235.
+281Bank has collected 450 dollars in fees over 20 months 5 days 71 hours 39 minutes 98 seconds.
+Customer paoletti account summary:
+Balance: $29550
+Total # of transactions: 1
+Incoming 0:
+Outgoing 1:
+1: paoletti sent 50000 dollars to mertg at 80402402237.
+Customer mertg account summary:
+Balance: $70000
+Total # of transactions: 1
+Incoming 1:
+1: paoletti sent 50000 dollars to mertg at 80402402237.
+Outgoing 0:
+Summary of [80402000000, 80403000000):
+1: paoletti sent 50000 dollars to mertg at 80402402237.
+There was a total of 1 transaction, 281Bank has collected 450 dollars in fees.

@@ -1,0 +1,71 @@
+User pxx logged in.
+User hhj logged in.
+User pxx logged out.
+Failed to log out pxx.
+Select a time less than three days in the future.
+Sender pxxx does not exist.
+Recipient hhjj does not exist.
+At the time of execution, sender and/or recipient have not registered.
+Sender pxx is not logged in.
+Transaction placed at 5: $2000 from hhj to pxx at 205.
+Transaction placed at 5: $20000 from hhj to pxx at 205.
+Transaction placed at 7: $200 from hhj to pxx at 202.
+Transaction placed at 8: $200 from hhj to pxx at 102.
+Transaction placed at 8: $200 from hhj to pxx at 102.
+Transaction placed at 8: $200 from hhj to pxx at 102.
+Transaction placed at 8: $200 from hhj to pxx at 102.
+Transaction placed at 8: $200 from hhj to pxx at 102.
+Transaction placed at 8: $200 from hhj to pxx at 102.
+Transaction placed at 8: $200 from hhj to pxx at 102.
+Transaction placed at 8: $200 from hhj to pxx at 102.
+Transaction placed at 8: $200 from hhj to pxx at 102.
+Transaction placed at 8: $200 from hhj to pxx at 102.
+Transaction placed at 8: $200 from hhj to pxx at 102.
+Transaction placed at 8: $200 from hhj to pxx at 102.
+Transaction executed at 102: $200 from hhj to pxx.
+Transaction executed at 102: $200 from hhj to pxx.
+Transaction executed at 102: $200 from hhj to pxx.
+Transaction executed at 102: $200 from hhj to pxx.
+Transaction executed at 102: $200 from hhj to pxx.
+Transaction executed at 102: $200 from hhj to pxx.
+Transaction executed at 102: $200 from hhj to pxx.
+Transaction executed at 102: $200 from hhj to pxx.
+Transaction executed at 102: $200 from hhj to pxx.
+Transaction executed at 102: $200 from hhj to pxx.
+Transaction executed at 102: $200 from hhj to pxx.
+Transaction executed at 102: $200 from hhj to pxx.
+Transaction executed at 202: $200 from hhj to pxx.
+Transaction executed at 205: $2000 from hhj to pxx.
+Insufficient funds to process transaction 1.
+Customer pxx account summary:
+Balance: $14525
+Total # of transactions: 14
+Incoming 14:
+7: hhj sent 200 dollars to pxx at 102.
+8: hhj sent 200 dollars to pxx at 102.
+9: hhj sent 200 dollars to pxx at 102.
+10: hhj sent 200 dollars to pxx at 102.
+11: hhj sent 200 dollars to pxx at 102.
+12: hhj sent 200 dollars to pxx at 102.
+13: hhj sent 200 dollars to pxx at 102.
+14: hhj sent 200 dollars to pxx at 102.
+2: hhj sent 200 dollars to pxx at 202.
+0: hhj sent 2000 dollars to pxx at 205.
+Outgoing 0:
+Summary of [0, 1000000):
+3: hhj sent 200 dollars to pxx at 102.
+4: hhj sent 200 dollars to pxx at 102.
+5: hhj sent 200 dollars to pxx at 102.
+6: hhj sent 200 dollars to pxx at 102.
+7: hhj sent 200 dollars to pxx at 102.
+8: hhj sent 200 dollars to pxx at 102.
+9: hhj sent 200 dollars to pxx at 102.
+10: hhj sent 200 dollars to pxx at 102.
+11: hhj sent 200 dollars to pxx at 102.
+12: hhj sent 200 dollars to pxx at 102.
+13: hhj sent 200 dollars to pxx at 102.
+14: hhj sent 200 dollars to pxx at 102.
+2: hhj sent 200 dollars to pxx at 202.
+0: hhj sent 2000 dollars to pxx at 205.
+There were a total of 14 transactions, 281Bank has collected 150 dollars in fees.
+There were 0 transactions that was placed between time 0 to 4.

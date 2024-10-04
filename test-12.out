@@ -1,0 +1,37 @@
+User pxx logged in.
+User pxx logged in.
+User pxx logged in.
+User hhj logged in.
+User hhj logged in.
+User pxx logged out.
+Transaction placed at 1: $2000 from pxx to hhj at 2000002.
+User pxx logged out.
+Fraudulent transaction detected, aborting request.
+Transaction placed at 5: $200 from hhj to pxx at 2000005.
+Transaction placed at 5: $1 from hhj to pxx at 2000006.
+Transaction executed at 2000002: $2000 from pxx to hhj.
+Transaction executed at 2000005: $200 from hhj to pxx.
+Transaction executed at 2000006: $1 from hhj to pxx.
+Customer pxx account summary:
+Balance: $8181
+Total # of transactions: 3
+Incoming 2:
+1: hhj sent 200 dollars to pxx at 2000005.
+2: hhj sent 1 dollar to pxx at 2000006.
+Outgoing 1:
+0: pxx sent 2000 dollars to hhj at 2000002.
+Customer hhj account summary:
+Balance: $11779
+Total # of transactions: 3
+Incoming 1:
+0: pxx sent 2000 dollars to hhj at 2000002.
+Outgoing 2:
+1: hhj sent 200 dollars to pxx at 2000005.
+2: hhj sent 1 dollar to pxx at 2000006.
+Summary of [3000000, 4000000):
+There were a total of 0 transactions, 281Bank has collected 0 dollars in fees.
+0: pxx sent 2000 dollars to hhj at 2000002.
+1: hhj sent 200 dollars to pxx at 2000005.
+2: hhj sent 1 dollar to pxx at 2000006.
+There were 3 transactions that were placed between time 0 to 3000104.
+281Bank has collected 40 dollars in fees over 3 days 1 minute 4 seconds.

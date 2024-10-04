@@ -1,0 +1,32 @@
+User pxx logged in.
+Select a time less than three days in the future.
+User pxx logged in.
+User hhj logged in.
+Transaction placed at 80301402235: $80000 from hhj to pxx at 80302402234.
+Insufficient funds to process transaction 0.
+Transaction placed at 80401402235: $100 from hhj to pxx at 80402402240.
+User pxx logged out.
+Transaction executed at 80402402240: $100 from hhj to pxx.
+Transaction placed at 80402402240: $1 from pxx to hhj at 80402404434.
+User pxx logged out.
+Transaction executed at 80402404434: $1 from pxx to hhj.
+1: hhj sent 100 dollars to pxx at 80402402240.
+2: pxx sent 1 dollar to hhj at 80402404434.
+There were 2 transactions that were placed between time 80301402236 to 90301402240.
+281Bank has collected 20 dollars in fees over 20 months 5 days 71 hours 40 minutes 4 seconds.
+Customer hhj account summary:
+Balance: $79886
+Total # of transactions: 2
+Incoming 1:
+2: pxx sent 1 dollar to hhj at 80402404434.
+Outgoing 1:
+1: hhj sent 100 dollars to pxx at 80402402240.
+Customer pxx account summary:
+Balance: $20094
+Total # of transactions: 2
+Incoming 1:
+1: hhj sent 100 dollars to pxx at 80402402240.
+Outgoing 1:
+2: pxx sent 1 dollar to hhj at 80402404434.
+Summary of [90302000000, 90303000000):
+There were a total of 0 transactions, 281Bank has collected 0 dollars in fees.

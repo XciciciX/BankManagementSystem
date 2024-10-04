@@ -1,0 +1,29 @@
+User pxx logged in.
+User hhj logged in.
+User pxx logged out.
+Failed to log out pxx.
+Select a time less than three days in the future.
+Transaction placed at 5: $200 from hhj to pxx at 2000005.
+Transaction placed at 5: $1 from hhj to pxx at 2000006.
+Transaction executed at 2000005: $200 from hhj to pxx.
+Transaction executed at 2000006: $1 from hhj to pxx.
+Customer pxx account summary:
+Balance: $10191
+Total # of transactions: 2
+Incoming 2:
+0: hhj sent 200 dollars to pxx at 2000005.
+1: hhj sent 1 dollar to pxx at 2000006.
+Outgoing 0:
+Customer hhj account summary:
+Balance: $9789
+Total # of transactions: 2
+Incoming 0:
+Outgoing 2:
+0: hhj sent 200 dollars to pxx at 2000005.
+1: hhj sent 1 dollar to pxx at 2000006.
+Summary of [3000000, 4000000):
+There were a total of 0 transactions, 281Bank has collected 0 dollars in fees.
+0: hhj sent 200 dollars to pxx at 2000005.
+1: hhj sent 1 dollar to pxx at 2000006.
+There were 2 transactions that were placed between time 0 to 3000104.
+281Bank has collected 20 dollars in fees over 3 days 1 minute 4 seconds.
